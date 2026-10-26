@@ -320,6 +320,11 @@ a {
   background-image: radial-gradient(ellipse at 80% 25%, #236caa, transparent 55%);
 }
 
+.realestate-art {
+  color: #fff2d7;
+  background: radial-gradient(ellipse at 80% 20%, #b7a06b, transparent 55%), linear-gradient(135deg, #234b3d, #101b30);
+}
+
 .javelin-art {
   background-color: #163e3b;
   background-image: radial-gradient(ellipse at 80% 25%, #237a6d, transparent 55%);

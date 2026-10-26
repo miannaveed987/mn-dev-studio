@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miannaveed987.github.io/mn-dev-studio/sitemap.xml

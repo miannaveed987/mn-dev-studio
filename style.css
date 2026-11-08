@@ -743,3 +743,10 @@ footer p {
     padding: 24px;
   }
 }
+
+.project-actions{margin-top:12px}
+.project-actions .btn{min-height:42px}
+.btn.disabled{opacity:.55;cursor:not-allowed;pointer-events:none}
+.tools-art{background:linear-gradient(135deg,#0f766e,#22c55e);color:#fff}
+
+.mahjong-art{background:linear-gradient(135deg,#7f1d1d,#dc2626);color:#fff}

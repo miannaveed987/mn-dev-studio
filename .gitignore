@@ -1,0 +1,6 @@
+backup/
+server.log
+tatus*
+*.bak*
+*.before-*
+*.backup-*

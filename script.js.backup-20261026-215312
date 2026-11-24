@@ -1,0 +1,3 @@
+document.getElementById("year").textContent = new Date().getFullYear();
+
+// Contact links will be configured after you confirm the details.
